@@ -1,12 +1,11 @@
 
-# 🐭함께 성장하는것을 즐기는 백엔드개발자
-# Baek Joon Woo 입니다.
+# 🐭 함께 성장하는것을 즐기는 백엔드개발자 백준우 입니다.
 - Email 
 junu0810@hanmail.net
 - Blog
 https://velog.io/@baek1008
 
-## Stack
+## 🔧 Stack
 ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/></a>
 
