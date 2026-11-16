@@ -7,7 +7,7 @@ MSA 환경에서 Node.js · Java/Spring Boot 기반 백엔드 서비스를 설�
 </p>
 
 - 📧 Email
-  junu0810@hanmail.net
+  jjunu0810@naver.com
 - ✍️ Blog
   https://velog.io/@baek1008
 - 🏅 자격증
